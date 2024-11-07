@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/JacksonDivakar">
-        <img src="https://github-stats-alpha.vercel.app/api?username=JacksonDivakarProjects&cc=22272e&tc=ffdd57&ic=1f77b4&bc=0000">
+        <img src="https://github-stats-alpha.vercel.app/api?username=JacksonDivakar&cc=22272e&tc=ffdd57&ic=1f77b4&bc=0000">
     </a>
 </p>
 
