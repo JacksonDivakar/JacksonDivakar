@@ -34,7 +34,5 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonDivakar&background=22272e&border=666&ring=1f77b4&fire=ffdd57&currStreakLabel=1f77b4&sideLabels=1f77b4&sideNums=ffdd57&dates=ffdd57" alt="JacksonDivakar" />
-</p>
+
 
