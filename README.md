@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Java || ML || DL || Time Series Analysis || Statistics**
 
-- 📩 Feel free to email me at  **Jackson Divakar R**
+- 📩 Feel free to email me at  **jacksondivakar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
