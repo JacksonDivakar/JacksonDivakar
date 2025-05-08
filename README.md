@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/JacksonDivakar">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jackson+Divakar;Technology+Professional+%7C+AI and Data Science+Student;AI+%7C+Machine+Learning+%7C+Deep+Learning+&color=1f77b4" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jackson+Divakar;Technology+Professional+%7C+AI and Data Science+Student;AI+%7C+Machine+Learning+%7C+Deep+Learning+&color=1f77b4"/>
     </a>
 </p>
 
